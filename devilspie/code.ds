@@ -1,0 +1,7 @@
+(if
+    (contains (application_name) "Code - OSS")
+    (begin
+        (set_workspace 6)
+	(maximize)
+    )
+)

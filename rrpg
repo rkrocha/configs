@@ -1,0 +1,4 @@
+#!/bin/sh
+export WINEARCH=win32
+export WINEPREFIX="$HOME/.wine-rrpg"
+nohup wine $HOME/.wine-rrpg/drive_c/RRPG/rrpg.exe &>/dev/null &

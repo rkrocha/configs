@@ -1,0 +1,7 @@
+(if
+    (is (application_name) "terminator")
+    (begin
+        (geometry "960x1020+960+0")
+    )
+)
+

@@ -1,0 +1,7 @@
+(if
+    (is (application_name) "Discord")
+    (begin
+        (set_workspace 2)
+        (geometry "1400x877+281+76")
+    )
+)
