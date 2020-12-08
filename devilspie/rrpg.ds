@@ -1,6 +1,6 @@
 (if
     (is (window_name) "RRPG Firecast 7.8h")
     (begin
-        (set_workspace 4)
+        (set_workspace 5)
     )
 )

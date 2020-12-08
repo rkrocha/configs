@@ -1,7 +1,7 @@
 (if
     (contains (application_name) "Spotify")
     (begin
-        (set_workspace 5)
+        (set_workspace 4)
 	(maximize)
     )
 )
@@ -9,7 +9,7 @@
 (if
     (is (application_name) "Untitled window")
     (begin
-        (set_workspace 5)
+        (set_workspace 4)
 	(maximize)
     )
 )

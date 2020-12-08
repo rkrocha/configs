@@ -1,5 +1,5 @@
 #!/bin/sh
 
-mount | grep -q "$HOME/Documents/gdrive" || google-drive-ocamlfuse "$HOME/Documents/gdrive"
+mount | grep -q "$HOME/Documents/gdrive/gdrive" || google-drive-ocamlfuse "$HOME/Documents/gdrive/gdrive"
 
 imwheel -k &>/dev/null
