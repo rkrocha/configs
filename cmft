@@ -1,6 +1,6 @@
 #!/bin/sh
 
-make -s -C $FT && make clean -s -C $FT
+make -s -C $FT &>/dev/null && make clean -s -C $FT
 
 if [ -z "$1" ]
 then
