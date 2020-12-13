@@ -53,7 +53,7 @@ alias sp="sudo pacman"
 alias y="yay"
 
 # CODING:
-alias makeft="make -s -C $FT &>/dev/null && make clean -s -C $FT"
+alias makeft="make -s -C $FT && make clean -s -C $FT"
 alias norminette="~/Documents/norminette/norminette.rb"
 alias norm="~/Documents/norminette/norminette.rb"
 alias normc="~/Documents/norminette/norminette.rb *.[ch]"
