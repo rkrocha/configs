@@ -2,7 +2,7 @@ export FT=/home/rafa/Documents/42cursus/libft/
 export SCR=/home/rafa/.scripts
 
 env | grep -q ^OPATH || export OPATH=$PATH
-env | grep -q ^PATH.*/home/rafa/.scripts.* || export PATH=$PATH:$SCR
+env | grep -q ^PATH.*/home/rafa/.scripts.* || export PATH=$SCR:$PATH
 
 # SYSTEM:
 alias al="mp $SCR/.bash_aliases"
@@ -58,3 +58,9 @@ alias makeft="make -s -C $FT && make clean -s -C $FT"
 alias norminette="~/Documents/norminette/norminette.rb"
 alias norm="~/Documents/norminette/norminette.rb"
 alias normc="~/Documents/norminette/norminette.rb *.[ch]"
+
+# GIT:
+alias ga="git add"
+alias gs="git status"
+alias gc="git commit -m"
+alias gp="git push"
