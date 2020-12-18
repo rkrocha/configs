@@ -2,7 +2,7 @@
 
 if [ -z "$1" ]
 then
-	gcc -Wall -Werror -Wextra *.[ch] && ./a.out
+	gcc -Wall -Werror -Wextra *.c && ./a.out
 else
 	gcc -Wall -Werror -Wextra $@ && ./a.out
 fi

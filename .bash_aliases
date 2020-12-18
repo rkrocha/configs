@@ -2,7 +2,7 @@ export FT=/home/rafa/Documents/42cursus/libft/
 export SCR=/home/rafa/.scripts
 
 env | grep -q ^OPATH || export OPATH=$PATH
-env | grep -q ^PATH.*/home/rafa/.scripts.* || export PATH=$SCR:$PATH
+env | grep -q ^PATH.*/home/rafa/.scripts.* || export PATH=$PATH:$SCR
 
 # SYSTEM:
 alias al="mp $SCR/.bash_aliases"
@@ -23,12 +23,12 @@ alias la="ls -lA"
 alias lag="la | grep"
 alias less="less -r"
 alias loc="locate -i"
-mkcd () { mkdir -p -- "$@" && cd -P -- "$_" && pwd ; }
-alias mkd="mkdir -p --"
+mkcd () { mkdir -pv -- "$@" && cd -P -- "$_" && pwd ; }
+alias mkd="mkdir -pv --"
 alias mv="mv -iv"
 alias r="ranger"
 alias rm="rm -Iv"
-alias rmd="rmdir -v"
+alias rmd="rmdir -v --preserve-root"
 alias t="thunar"
 alias toupper="tr [:lower:] [:upper:]"
 alias tolower="tr [:upper:] [:lower:]"
@@ -61,6 +61,8 @@ alias normc="~/Documents/norminette/norminette.rb *.[ch]"
 
 # GIT:
 alias ga="git add"
-alias gs="git status"
 alias gc="git commit -m"
+alias gi="cp $HOME/Templates/.gitignore ."
 alias gp="git push"
+alias gr="git restore --staged"
+alias gs="git status"
