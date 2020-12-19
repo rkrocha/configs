@@ -1,0 +1,14 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"42 Headers",
+		"ColorSchemeEditor",
+		"GitHub Theme",
+		"Package Control",
+		"PackageResourceViewer"
+	]
+}

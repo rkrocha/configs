@@ -1,0 +1,12 @@
+<snippet>
+	<description>main(ac, **av)</description>
+	<content><![CDATA[
+int	main(int ac, const char **av)
+{
+	${0}
+	return (0);
+}
+]]></content>
+	<tabTrigger>amain</tabTrigger>
+	<scope>(source.c | source.objc | source.c++ | source.objc++) - entity.name.function</scope>
+</snippet>

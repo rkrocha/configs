@@ -1,0 +1,34 @@
+<snippet>
+	<description>Makefile template</description>
+	<content><![CDATA[
+
+NAME	= ${1:lib_name}
+
+SRC		=
+
+OBJ		=
+
+INCLUDE	=
+
+all: \$(NAME)
+
+\$(NAME): \$(SRC)
+	@ gcc -Wall -Werror -Wextra \$(INCLUDE) -c \$(SRC)
+	@ ar rc \$(NAME) \$(OBJ)
+	@ ranlib \$(NAME)
+	@ echo "Made \$(value NAME)"
+
+clean:
+	@ rm -f \$(OBJ)
+
+fclean: clean
+	@ rm -f \$(NAME)
+
+src:
+	@ ls | grep .c\$ | xargs | sed 's/ / \\\n\t\t/g'
+
+.PHONY: all clean fclean re src
+]]></content>
+	<tabTrigger>make</tabTrigger>
+	<scope>source.makefile</scope>
+</snippet>

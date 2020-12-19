@@ -1,0 +1,9 @@
+<snippet>
+	<description>func()</description>
+	<content><![CDATA[${1:return}	${2:name}(${3:args})
+{
+	${4}
+}]]></content>
+	<tabTrigger>func</tabTrigger>
+	<scope>(source.c | source.objc | source.c++ | source.objc++) - entity.name.function</scope>
+</snippet>
