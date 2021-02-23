@@ -1,0 +1,8 @@
+<snippet>
+	<description>line break</description>
+	<content><![CDATA[<br>
+
+]]></content>
+	<tabTrigger>br</tabTrigger>
+	<scope>text.html.markdown</scope>
+</snippet>

@@ -1,4 +1,6 @@
 {
+	"font_face": "Source Code Pro Regular",
+	"font_size": 10,
 	"bold_folder_labels": true,
 	"close_windows_when_empty": true,
 	"color_scheme": "Packages/GitHub Theme/schemes/GitHub Dark.sublime-color-scheme",

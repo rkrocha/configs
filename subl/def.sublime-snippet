@@ -1,12 +1,13 @@
 <snippet>
 	<description>#ifndef #def</description>
-	<content><![CDATA[#ifndef ${1:/* HEADER_H */}
-# define ${1}
+	<content><![CDATA[
+#ifndef ${1:HEADER}_H
+# define ${1}_H
 
-${2:/* START */}
+${2}
 
 #endif
-}]]></content>
+]]></content>
 	<tabTrigger>def</tabTrigger>
-	<scope>(source.c | source.h) - entity.name.function</scope>
+	<scope>source.c, source.c++, source.objc, source.objc++</scope>
 </snippet>
