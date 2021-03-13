@@ -1,0 +1,726 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"std",
+				"stddef.h\tstandard header"
+			],
+			[
+				"inc",
+				"inc\t#include <…>"
+			],
+			[
+				"prin",
+				"print_len"
+			],
+			[
+				"ft_put",
+				"ft_putchar"
+			],
+			[
+				"num",
+				"num_neg"
+			],
+			[
+				"fla",
+				"flag_zero"
+			],
+			[
+				"num_",
+				"num_len"
+			],
+			[
+				"flag",
+				"flag_zero"
+			],
+			[
+				"C",
+				"conv"
+			],
+			[
+				"prn",
+				"printf_pad"
+			],
+			[
+				"print",
+				"print_len"
+			],
+			[
+				"ft_",
+				"ft_putnbr"
+			],
+			[
+				"printf",
+				"printf_pad"
+			],
+			[
+				"pr",
+				"print_len"
+			],
+			[
+				"t",
+				"t_params"
+			],
+			[
+				"printf_int",
+				"printf_int_print"
+			],
+			[
+				"flag_",
+				"flag_minus"
+			],
+			[
+				"con",
+				"conv"
+			],
+			[
+				"pad",
+				"pad_len"
+			],
+			[
+				"pri",
+				"print_len"
+			],
+			[
+				"n",
+				"nprint"
+			],
+			[
+				"arg",
+				"arg_int"
+			],
+			[
+				"ar",
+				"arg_int"
+			],
+			[
+				"get",
+				"get_width_preci_args"
+			],
+			[
+				"co",
+				"conv"
+			],
+			[
+				"conv",
+				"conversion"
+			],
+			[
+				"PRI",
+				"PRINTF_SPECS"
+			],
+			[
+				"ft_strd",
+				"ft_strdup"
+			],
+			[
+				"str",
+				"ft_strchr"
+			],
+			[
+				"B",
+				"BUFFER_SIZE"
+			],
+			[
+				"ft_str",
+				"ft_strdel"
+			],
+			[
+				"fo",
+				"found_eof"
+			],
+			[
+				"bu",
+				"buffer_size"
+			],
+			[
+				"size",
+				"size_t"
+			],
+			[
+				"st",
+				"str"
+			],
+			[
+				"MY",
+				"MY_FILES"
+			],
+			[
+				"in",
+				"inputrc"
+			],
+			[
+				"bash",
+				"bash_aliases"
+			],
+			[
+				"get_",
+				"get_next_line_"
+			],
+			[
+				"out",
+				"output"
+			],
+			[
+				"curl",
+				"curl_file"
+			],
+			[
+				"ssh",
+				"ssh_init"
+			],
+			[
+				"succ",
+				"succ_crit_temp"
+			],
+			[
+				"su",
+				"succ_temp"
+			],
+			[
+				"a",
+				"av"
+			],
+			[
+				"tab",
+				"table_concat"
+			],
+			[
+				"ta",
+				"table.concat\ttable.concat"
+			],
+			[
+				"INT",
+				"INT_MAX"
+			],
+			[
+				"IN",
+				"INT_MIN"
+			],
+			[
+				"ft_pu",
+				"ft_putstr"
+			],
+			[
+				"N",
+				"num"
+			],
+			[
+				"def",
+				"def\t#ifndef #def"
+			],
+			[
+				"stru",
+				"struct\ttypedef struct"
+			],
+			[
+				"i",
+				"i"
+			],
+			[
+				"func",
+				"function"
+			],
+			[
+				"functio",
+				"function-call"
+			],
+			[
+				"ptr",
+				"ptr_function"
+			],
+			[
+				"ret",
+				"return"
+			],
+			[
+				"mai",
+				"main\tmainarg()"
+			],
+			[
+				"main",
+				"main\tCmain"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/home/rafa/Documents/test/ft_strsearch.c",
+			"settings":
+			{
+				"buffer_size": 1344,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"heade",
+				"42 headers: settings"
+			],
+			[
+				"keyb",
+				"Preferences: Key Bindings"
+			],
+			[
+				"packa",
+				"Package Control: Discover Packages"
+			],
+			[
+				"theme",
+				"Color Scheme Editor: Edit current color scheme"
+			],
+			[
+				"ope",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"prv",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"struc",
+				"Snippet: struct"
+			],
+			[
+				"snipp\t",
+				"Snippet: line break"
+			],
+			[
+				"reso",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"make",
+				"Snippet: Makefile template"
+			],
+			[
+				"res",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"re",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"mak",
+				"Snippet: makefile"
+			],
+			[
+				"snippe",
+				"Snippet: makefile"
+			],
+			[
+				"open",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"schem",
+				"Color Scheme Editor: Goto next matching scope"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"resor",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"list",
+				"Package Control: List Packages"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"package",
+				"Package Control: List Packages"
+			],
+			[
+				"pack",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"ke",
+				"Preferences: Key Bindings"
+			],
+			[
+				"Snippet: ",
+				"Snippet: Do While Loop"
+			],
+			[
+				"snipp",
+				"Snippet: #ifndef … #define … #endif"
+			],
+			[
+				"main",
+				"Snippet: main()"
+			],
+			[
+				"pack inta",
+				"Package Control: Install Package"
+			],
+			[
+				"pack in",
+				"Package Control: Install Package"
+			],
+			[
+				"pack int",
+				"Package Control: Install Package"
+			],
+			[
+				"42",
+				"42 headers: settings"
+			],
+			[
+				"head",
+				"42 headers: settings"
+			],
+			[
+				"pack i",
+				"Package Control: Install Package"
+			],
+			[
+				"sche",
+				"UI: Select Theme"
+			],
+			[
+				"them",
+				"UI: Select Color Scheme"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 644.0,
+		"history":
+		[
+			"sublime.find_resources('struct.sublime-snippet')",
+			"sublime.find_resources('*.sublime-snippet') | grep struct;",
+			"sublime.find_resources('*.sublime-snippet') | grep struct",
+			"sublime.find_resources('*.sublime-snippet')"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/rafa/.scripts/cmft",
+		"/home/rafa/Documents/projects/guac_script/guac.sh",
+		"/home/rafa/Documents/projects/guac_script/.zshrc",
+		"/home/rafa/Documents/projects/guac_script/.scripts/cmft",
+		"/home/rafa/Documents/projects/guac_script/.scripts/cm",
+		"/home/rafa/Documents/projects/guac_script/.scripts/cft",
+		"/home/rafa/.scripts/.bash_aliases",
+		"/home/rafa/Documents/projects/guac_script/.scripts/c",
+		"/home/rafa/.scripts/cft",
+		"/home/rafa/Documents/test/size.c",
+		"/home/rafa/Documents/test/ft_putlnbr_base.c",
+		"/home/rafa/Downloads/update",
+		"/home/rafa/Documents/42cursus/libft/makefile",
+		"/home/rafa/Documents/42cursus/libft/libft.h",
+		"/home/rafa/Documents/42cursus/libft/ft_putnstr.c",
+		"/home/rafa/Documents/42cursus/libft/ft_count_digits.c",
+		"/home/rafa/Documents/42cursus/get_next_line/run_test.sh",
+		"/home/rafa/Documents/42cursus/get_next_line/get_next_line.c",
+		"/home/rafa/Documents/42cursus/get_next_line/comp_gnl_bonus.sh",
+		"/home/rafa/Documents/42cursus/ft_printf/makefile",
+		"/home/rafa/Documents/42cursus/ft_printf/ft_printf.h",
+		"/home/rafa/Documents/42cursus/ft_printf/main.c",
+		"/home/rafa/Documents/42cursus/ft_printf/ft_printf_char_str.c",
+		"/home/rafa/Documents/42cursus/ft_printf/ft_printf_int.c",
+		"/home/rafa/Documents/42cursus/ft_printf/ft_printf_utils.c",
+		"/home/rafa/Documents/42cursus/ft_printf/ft_printf.c",
+		"/home/rafa/Documents/42cursus/ft_printf/ft_printf_str.c",
+		"/home/rafa/Documents/test/printf_test.c",
+		"/home/rafa/Documents/42cursus/libft/ft_putnbr_fd.c",
+		"/home/rafa/Documents/42cursus/libft/ft_putnbr.c",
+		"/home/rafa/Documents/42cursus/libft/ft_putlnbr.c",
+		"/home/rafa/.lldb/lldb-widehistory",
+		"/home/rafa/Documents/42cursus/ft_printf/.gitignore",
+		"/home/rafa/.config/sublime-text-3/Packages/User/42-headers.sublime-settings",
+		"/home/rafa/Documents/42cursus/ft_printf/ft_printf_debug.c",
+		"/home/rafa/Documents/42cursus/ft_printf/comp_printf.sh",
+		"/home/rafa/Documents/42cursus/libft/ft_split.c",
+		"/home/rafa/Documents/42cursus/libft/ft_strdel.c",
+		"/home/rafa/Documents/42cursus/ft_printf/comp.sh",
+		"/home/rafa/Downloads/gnl_test.sh",
+		"/home/rafa/Templates/.gitignore",
+		"/home/rafa/Downloads/netwhat1/answer.txt",
+		"/home/rafa/Documents/projects/guac_script/README.md",
+		"/home/rafa/Documents/projects/ft_debug/main.c",
+		"/home/rafa/Documents/projects/ft_debug/ft_debug_int.c",
+		"/home/rafa/Documents/projects/ft_debug/ft_debug_float.c",
+		"/home/rafa/Documents/projects/ft_debug/ft_debug.h",
+		"/home/rafa/Documents/42cursus/libft/ft_atoi.c",
+		"/home/rafa/Documents/42cursus/libft/ft_isspace.c",
+		"/home/rafa/Documents/42cursus/libft/ft_itoa.c",
+		"/home/rafa/Documents/42cursus/printf/.gitignore",
+		"/home/rafa/Documents/42cursus/printf/comp",
+		"/home/rafa/Documents/42cursus/printf/main.c",
+		"/home/rafa/Documents/projects/guac_script/install_valgrind.sh",
+		"/home/rafa/Documents/42cursus/new_gnl/get_next_line_utils.c",
+		"/home/rafa/Documents/42cursus/new_gnl/comp.sh",
+		"/home/rafa/Documents/42cursus/new_gnl/test.sh",
+		"/home/rafa/Documents/42cursus/new_gnl/main.c",
+		"/home/rafa/Documents/42cursus/new_gnl/get_next_line.c",
+		"/home/rafa/Documents/42cursus/new_gnl/.gitignore",
+		"/home/rafa/Documents/42cursus/gnl/get_next_line.h",
+		"/home/rafa/Documents/42cursus/gnl/get_next_line_utils.c",
+		"/home/rafa/Documents/42cursus/gnl/get_next_line.c",
+		"/home/rafa/Documents/test/statchar.c",
+		"/home/rafa/Documents/projects/guac_script/.zsh_aliases",
+		"/home/rafa/Documents/projects/guac_script/.bashrc",
+		"/home/rafa/Documents/projects/guac_script/.bash_aliases",
+		"/home/rafa/Documents/42cursus/gnl/main.c",
+		"/home/rafa/Documents/42cursus/gnl/testb.sh",
+		"/home/rafa/Documents/42cursus/gnl/compb.sh",
+		"/home/rafa/Documents/42cursus/gnl/test.sh",
+		"/home/rafa/Documents/42cursus/gnl/comp.sh",
+		"/home/rafa/Documents/42cursus/gnl/testSTDIN.sh",
+		"/home/rafa/Documents/42cursus/gnl/file3",
+		"/home/rafa/Documents/42cursus/gnl/file0",
+		"/home/rafa/Documents/42cursus/printf/srcs/ft_printf.h",
+		"/home/rafa/Documents/REGEX.txt",
+		"/home/rafa/.scripts/.bashrc",
+		"/home/rafa/Documents/test/argloops.sh",
+		"/home/rafa/Documents/test/lib.c",
+		"/home/rafa/Documents/42cursus/gnl/mainb.c",
+		"/home/rafa/Documents/42cursus/gnl/.gitignore",
+		"/home/rafa/Documents/42cursus/gnl/get_next_line_bonus.c",
+		"/home/rafa/Downloads/nasimon-/get_next_line.c",
+		"/home/rafa/.cache/.fr-jhNg6r/.vimrc",
+		"/home/rafa/Documents/42cursus/gnl/file2",
+		"/home/rafa/Documents/42cursus/netwhat/answer.txt",
+		"/home/rafa/.scripts/screenshot.sh",
+		"/home/rafa/Documents/42cursus/netwhat42-train/srcs/en/questions.txt",
+		"/home/rafa/Documents/test/cast.c",
+		"/home/rafa/Documents/test/sizeof.c",
+		"/home/rafa/Documents/test/donut.c",
+		"/home/rafa/Downloads/gnl/get_next_line_bonus.c",
+		"/home/rafa/Documents/42cursus/get_next_line/srcs/get_next_line.c",
+		"/home/rafa/Documents/test/leak.c",
+		"/home/rafa/Documents/projects/wgen/Makefile",
+		"/rootfs-pkgs.txt",
+		"/desktopfs-pkgs.txt",
+		"/.manjaro-tools",
+		"/home/rafa/.cache/xfce4/appfinder/frecency",
+		"/home/rafa/.cache/sessions/xfwm4-2a0cfb68b-09ac-4405-8265-fd3e9598718c.state",
+		"/home/rafa/.cache/sessions/xfwm4-2e8619b83-c46b-4bbf-b98d-79e31ed3f17f.state",
+		"/home/rafa/Documents/test/null_addr.c",
+		"/home/rafa/Documents/test/impcast.c",
+		"/home/rafa/Documents/42cursus/get_next_line/dif",
+		"/home/rafa/Documents/test/init_struct.c",
+		"/home/rafa/Downloads/gnl_test/get_next_line.c",
+		"/home/rafa/Downloads/test/.bashrc",
+		"/home/rafa/Documents/test/openmax.c",
+		"/home/rafa/Documents/githubpage/README.md",
+		"/home/rafa/Documents/test/castp.c",
+		"/home/rafa/Documents/test/point.c",
+		"/home/rafa/Documents/projects/guac_script/ssh_init.sh",
+		"/home/rafa/Downloads/gnl_test/test.sh",
+		"/home/rafa/Documents/projects/guac_script/.vimrc",
+		"/home/rafa/Documents/projects/guac_script/.inputrc",
+		"/home/rafa/.scripts/.inputrc",
+		"/home/rafa/Downloads/gnl_test/get_next_line.h",
+		"/home/rafa/Downloads/gnl_test/get_next_line_utils.c",
+		"/home/rafa/Downloads/gnl_test/gnl/get_next_line_utils.c",
+		"/home/rafa/Downloads/gnl_test/gnl/get_next_line.h",
+		"/home/rafa/Downloads/gnl_test/gnl/get_next_line.c",
+		"/home/rafa/Documents/test/int_ptr.c",
+		"/home/rafa/Documents/test/fluid/simfluid.c",
+		"/home/rafa/Documents/42cursus/printf/srcs/makefile",
+		"/home/rafa/Documents/42cursus/get_next_line/comp",
+		"/home/rafa/.wine-rrpg/drive_c/RRPG8/start.sh",
+		"/home/rafa/.wine-rrpg/drive_c/RRPG8_beta/LogErrors/Firecast-exe.txt"
+	],
+	"find":
+	{
+		"height": 29.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/home/rafa/Documents/test/ft_strsearch.c",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1344,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1167,
+								1167
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 29.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 128.0
+	},
+	"pinned_build_system": "",
+	"project": "",
+	"replace":
+	{
+		"height": 54.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"~/Documents/42cursus/ft_printf/printf.sublime-workspace"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

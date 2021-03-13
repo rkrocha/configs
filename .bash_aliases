@@ -1,3 +1,4 @@
+
 export FT=/home/rafa/Documents/42cursus/libft/
 export SCR=/home/rafa/.scripts
 
@@ -8,7 +9,7 @@ env | grep -q ^PATH.*/home/rafa/.scripts.* || export PATH=$PATH:$SCR
 alias al="s $SCR/.bash_aliases"
 alias in="s $SCR/.inputrc"
 alias rc="s $SCR/.bashrc"
-alias ref="source $SCR/.bashrc"
+alias ref="source $SCR/.bashrc && exec bash"
 alias sudo="sudo "
 alias win="sudo grub-reboot 2 && reboot"
 
@@ -62,7 +63,7 @@ alias mc="make clean"
 alias mf="make fclean"
 alias mr="make re"
 alias ms="make src"
-alias mft="make -s -C $FT && make clean -s -C $FT"
+alias mft="make -s -C $FT"
 alias norminette="~/Documents/norminette/norminette.rb"
 alias norm="~/Documents/norminette/norminette.rb"
 alias normc="~/Documents/norminette/norminette.rb *.[ch]"

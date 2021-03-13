@@ -1,0 +1,11 @@
+[
+	{ "keys": ["ctrl+tab"], "command": "next_view" },
+	{ "keys": ["ctrl+shift+tab"], "command": "prev_view" },
+
+	{ "keys": ["ctrl+pagedown"], "command": "next_view_in_stack" },
+	{ "keys": ["ctrl+pageup"], "command": "prev_view_in_stack" },
+
+	{ "keys": ["ctrl+f9"], "command": "sort_lines", "args": {"case_sensitive": false} },
+	{ "keys": ["ctrl+shift+f9"], "command": "sort_lines", "args": {"case_sensitive": true} },
+	{ "keys": ["f9"] }
+]
