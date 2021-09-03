@@ -19,4 +19,3 @@ syntax enable
 set smarttab
 set ai
 set si
-colorscheme gitmine2

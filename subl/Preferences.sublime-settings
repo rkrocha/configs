@@ -9,7 +9,7 @@
 	"enable_tab_scrolling": false,
 	"ensure_newline_at_eof_on_save": true,
 	"font_face": "Source Code Pro Regular",
-	"font_size": 9,
+	"font_size": 10,
 	"highlight_line": true,
 	"ignored_packages":
 	[
@@ -21,7 +21,7 @@
 	],
 	"show_line_endings": true,
 	"theme": "GitHub-Theme.sublime-theme",
-	"trim_trailing_white_space_on_save": true,
+	"trim_trailing_white_space_on_save": false,
 	"word_wrap": true,
-	"wrap_width": 90
+	"wrap_width": 81
 }
