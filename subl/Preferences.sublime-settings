@@ -23,5 +23,5 @@
 	"theme": "GitHub-Theme.sublime-theme",
 	"trim_trailing_white_space_on_save": false,
 	"word_wrap": true,
-	"wrap_width": 81
+	"wrap_width": 90
 }

@@ -1,5 +1,5 @@
 (if
-    (contains (application_name) "Code - OSS")
+    (contains (application_name) "Visual Studio Code")
     (begin
         (set_workspace 6)
 	(maximize)

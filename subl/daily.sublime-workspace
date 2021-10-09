@@ -4,6 +4,142 @@
 		"selected_items":
 		[
 			[
+				"print",
+				"print"
+			],
+			[
+				"img",
+				"img_name"
+			],
+			[
+				"file",
+				"file_list"
+			],
+			[
+				"sou",
+				"source_soup"
+			],
+			[
+				"par",
+				"parse_soup"
+			],
+			[
+				"resul",
+				"result_list"
+			],
+			[
+				"ar",
+				"arg_list"
+			],
+			[
+				"log",
+				"log_content"
+			],
+			[
+				"prin",
+				"print"
+			],
+			[
+				"fil",
+				"file_path"
+			],
+			[
+				"get",
+				"get_formula"
+			],
+			[
+				"for",
+				"formula"
+			],
+			[
+				"pri",
+				"print_recipe"
+			],
+			[
+				"s",
+				"salad"
+			],
+			[
+				"in",
+				"ingredients"
+			],
+			[
+				"pre",
+				"prep_time"
+			],
+			[
+				"p",
+				"prep_time"
+			],
+			[
+				"da",
+				"date_format"
+			],
+			[
+				"text",
+				"text_analyzer"
+			],
+			[
+				"sort",
+				"sort_small"
+			],
+			[
+				"op",
+				"op_pb"
+			],
+			[
+				"sta",
+				"stack"
+			],
+			[
+				"op_",
+				"op_sa"
+			],
+			[
+				"fr",
+				"frame"
+			],
+			[
+				"str",
+				"str_isvalid"
+			],
+			[
+				"C",
+				"CFLAGS"
+			],
+			[
+				"st",
+				"stack"
+			],
+			[
+				"b",
+				"b_stack"
+			],
+			[
+				"stac",
+				"stack_push"
+			],
+			[
+				"ft_put",
+				"ft_putnbr"
+			],
+			[
+				"a",
+				"a_stack"
+			],
+			[
+				"t",
+				"t_stack"
+			],
+			[
+				"to",
+				"to_pop"
+			],
+			[
+				"inc",
+				"inc\t#include \"…\""
+			],
+			[
 				"SI",
 				"SIGUSR1"
 			],
@@ -48,14 +184,6 @@
 				"stdio.h\tstandard header"
 			],
 			[
-				"in",
-				"inc\t#include <…>"
-			],
-			[
-				"p",
-				"pid"
-			],
-			[
 				"sen",
 				"send_bin_zero"
 			],
@@ -84,10 +212,6 @@
 				"signal_bin_zero"
 			],
 			[
-				"ar",
-				"argv"
-			],
-			[
 				"catch_bi",
 				"catch_bin_one"
 			],
@@ -100,24 +224,12 @@
 				"SIGUSR1"
 			],
 			[
-				"st",
-				"stdio.h\tstandard header"
-			],
-			[
-				"inc",
-				"inc\t#include <…>"
-			],
-			[
 				"SE",
 				"SERVER_NAME"
 			],
 			[
 				"L",
 				"LIBS"
-			],
-			[
-				"C",
-				"C_FLAGS"
 			],
 			[
 				"CLI",
@@ -134,14 +246,6 @@
 			[
 				"pr",
 				"printed"
-			],
-			[
-				"prin",
-				"printed"
-			],
-			[
-				"str",
-				"strlen"
 			],
 			[
 				"strl",
@@ -188,10 +292,6 @@
 				"POSTGRES_PARAMS"
 			],
 			[
-				"b",
-				"br\tline break"
-			],
-			[
 				"db_",
 				"db_user_check"
 			],
@@ -228,10 +328,6 @@
 				"json_data"
 			],
 			[
-				"print",
-				"printf\tprintf …"
-			],
-			[
 				"size",
 				"size_t"
 			],
@@ -258,10 +354,6 @@
 			[
 				"c",
 				"conn"
-			],
-			[
-				"get",
-				"json_get_str_value"
 			],
 			[
 				"api_ac",
@@ -304,14 +396,6 @@
 				"CURLOPT_URL"
 			],
 			[
-				"s",
-				"stdio.h\tstandard header"
-			],
-			[
-				"par",
-				"parse_token_json"
-			],
-			[
 				"CRED",
 				"CRED_UID"
 			],
@@ -330,10 +414,6 @@
 			[
 				"def",
 				"define"
-			],
-			[
-				"t",
-				"token_request"
 			],
 			[
 				"D",
@@ -416,10 +496,6 @@
 				"ft_strnstr"
 			],
 			[
-				"ft_put",
-				"ft_putchar"
-			],
-			[
 				"num",
 				"num_neg"
 			],
@@ -438,141 +514,11 @@
 			[
 				"prn",
 				"printf_pad"
-			],
-			[
-				"ft_",
-				"ft_putnbr"
-			],
-			[
-				"printf",
-				"printf_pad"
-			],
-			[
-				"printf_int",
-				"printf_int_print"
-			],
-			[
-				"flag_",
-				"flag_minus"
-			],
-			[
-				"pad",
-				"pad_len"
-			],
-			[
-				"pri",
-				"print_len"
-			],
-			[
-				"arg",
-				"arg_int"
-			],
-			[
-				"conv",
-				"conversion"
-			],
-			[
-				"PRI",
-				"PRINTF_SPECS"
-			],
-			[
-				"ft_strd",
-				"ft_strdup"
-			],
-			[
-				"B",
-				"BUFFER_SIZE"
-			],
-			[
-				"fo",
-				"found_eof"
-			],
-			[
-				"bu",
-				"buffer_size"
-			],
-			[
-				"MY",
-				"MY_FILES"
-			],
-			[
-				"bash",
-				"bash_aliases"
-			],
-			[
-				"get_",
-				"get_next_line_"
-			],
-			[
-				"out",
-				"output"
-			],
-			[
-				"ssh",
-				"ssh_init"
-			],
-			[
-				"succ",
-				"succ_crit_temp"
 			]
 		]
 	},
 	"buffers":
 	[
-		{
-			"file": "/home/rafa/Documents/42cursus/minitalk/Makefile",
-			"settings":
-			{
-				"buffer_size": 2018,
-				"encoding": "UTF-8",
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "/home/rafa/Documents/42cursus/minitalk/server.c",
-			"settings":
-			{
-				"buffer_size": 1554,
-				"encoding": "UTF-8",
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "/home/rafa/Documents/42cursus/minitalk/client.c",
-			"settings":
-			{
-				"buffer_size": 1751,
-				"encoding": "UTF-8",
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "/home/rafa/Documents/42cursus/minitalk/server_bonus.c",
-			"settings":
-			{
-				"buffer_size": 1773,
-				"encoding": "UTF-8",
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "/home/rafa/Documents/42cursus/minitalk/client_bonus.c",
-			"settings":
-			{
-				"buffer_size": 2139,
-				"encoding": "UTF-8",
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "/home/rafa/Documents/42cursus/minitalk/unicode.txt",
-			"settings":
-			{
-				"buffer_size": 667,
-				"encoding": "UTF-8",
-				"line_ending": "Unix"
-			}
-		}
 	],
 	"build_system": "",
 	"build_system_choices":
@@ -590,11 +536,15 @@
 				"Indentation: Reindent Lines"
 			],
 			[
-				"sett",
+				"setting",
 				"Preferences: Settings"
 			],
 			[
-				"setting",
+				"reind",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"sett",
 				"Preferences: Settings"
 			],
 			[
@@ -786,6 +736,95 @@
 	},
 	"file_history":
 	[
+		"/home/rafa/.scripts/.bash_aliases",
+		"/home/rafa/.scripts/ytmdl",
+		"/home/rafa/Documents/Music/.spotdl-cache",
+		"/home/rafa/Documents/dojos/codewars/pagination.py",
+		"/home/rafa/Documents/dojos/codewars/pagination_helper.py",
+		"/home/rafa/Documents/dojos/sistema_vendas/test.py",
+		"/home/rafa/Documents/dojos/codewars/test.py",
+		"/home/rafa/Documents/dojos/sistema_vendas/calc_comissao.py",
+		"/home/rafa/Documents/dojos/codewars_dojo/test.py",
+		"/home/rafa/Documents/bootcamp_python/module00/ex07/filterwords.py",
+		"/home/rafa/Documents/REGEX.txt",
+		"/home/rafa/Documents/projects/deep_crawler/crawl_formula.json",
+		"/home/rafa/Documents/projects/deep_crawler/vidadesuporte.json",
+		"/home/rafa/Documents/projects/deep_crawler/deep_crawler.py",
+		"/home/rafa/RPG/rrpg8_folder/start.sh",
+		"/home/rafa/Documents/test/rrpg_logify.py",
+		"/home/rafa/Downloads/config-webcam.fish",
+		"/home/rafa/Documents/projects/deep_crawler/crawl_template.json",
+		"/home/rafa/Documents/bootcamp_python/module00/ex06/template.json",
+		"/home/rafa/Documents/bootcamp_python/module00/ex01/exec.py",
+		"/home/rafa/Documents/bootcamp_python/module00/ex03/count.py",
+		"/home/rafa/Documents/bootcamp_python/module00/ex05/kata00.py",
+		"/home/rafa/Documents/bootcamp_python/module00/ex05/kata01.py",
+		"/home/rafa/Documents/bootcamp_python/module00/ex05/kata02.py",
+		"/home/rafa/Documents/bootcamp_python/module00/ex05/kata03.py",
+		"/home/rafa/Documents/bootcamp_python/module00/ex05/kata04.py",
+		"/home/rafa/Documents/bootcamp_python/module00/ex06/recipe.py",
+		"/home/rafa/Documents/bootcamp_python/module00/ex04/operations.py",
+		"/home/rafa/Documents/bootcamp_python/module00/ex02/whois.py",
+		"/home/rafa/Documents/bootcamp_python/module00/ex01/whois.py",
+		"/home/rafa/Documents/bootcamp_python/module00/ex00/requirements.txt",
+		"/home/rafa/Documents/bootcamp_python/module00/ex00/numpy_metadata.sh",
+		"/home/rafa/Documents/bootcamp_python/module00/ex00/list_packages.sh",
+		"/home/rafa/Documents/42cursus/push_swap/notes.txt",
+		"/home/rafa/Documents/42cursus/push_swap/Makefile",
+		"/home/rafa/Documents/42cursus/push_swap/include/push_swap.h",
+		"/home/rafa/Documents/42cursus/push_swap/include/stack.h",
+		"/home/rafa/Documents/42cursus/push_swap/parse_args.c",
+		"/home/rafa/Documents/42cursus/push_swap/sort_small.c",
+		"/home/rafa/Documents/42cursus/push_swap/op_utils.c",
+		"/home/rafa/Documents/42cursus/push_swap/op_swap.c",
+		"/home/rafa/Documents/42cursus/push_swap/op_reverse_rotate.c",
+		"/home/rafa/Documents/42cursus/push_swap/stack.c",
+		"/home/rafa/Documents/42cursus/push_swap/dlst.c",
+		"/home/rafa/Documents/42cursus/push_swap/push_swap.c",
+		"/home/rafa/Documents/42cursus/push_swap/utils.c",
+		"/home/rafa/.cache/.fr-T2dohf/7-0-ft_rrange/subject.en.txt",
+		"/home/rafa/.cache/.fr-f9FI4K/rkochhan/ft_rrange/ft_rrange.c",
+		"/home/rafa/Downloads/Labs meeting.txt",
+		"/home/rafa/Documents/42cursus/push_swap/op_rotate.c",
+		"/home/rafa/Documents/42cursus/push_swap/op_push.c",
+		"/home/rafa/Documents/42cursus/push_swap/pyviz.py",
+		"/home/rafa/Documents/42cursus/push_swap/gen_args.sh",
+		"/home/rafa/Documents/42cursus/push_swap/.gitignore",
+		"/home/rafa/Documents/42cursus/libft/makefile",
+		"/home/rafa/Documents/42cursus/libft/libft.h",
+		"/home/rafa/Documents/42cursus/libft/ft_atoll.c",
+		"/home/rafa/Documents/42cursus/push_swap/stack.h",
+		"/home/rafa/Documents/42cursus/push_swap/push_swap.h",
+		"/home/rafa/Documents/42cursus/push_swap/stack_test.c",
+		"/home/rafa/Documents/42cursus/push_swap/stack_test.sh",
+		"/usr/include/c++/11.1.0/cstdarg",
+		"/usr/include/c++/11.1.0/tr1/cstdarg",
+		"/usr/include/c++/11.1.0/tr1/stdarg.h",
+		"/usr/lib/gcc/x86_64-pc-linux-gnu/11.1.0/include/stdarg.h",
+		"/home/rafa/Documents/42cursus/push_swap/dlst_test.c",
+		"/home/rafa/Documents/42cursus/push_swap/dlst_test.sh",
+		"/home/rafa/Documents/test/main.c",
+		"/home/rafa/Documents/test/open_max.c",
+		"/usr/lib/clang/12.0.1/include/stdarg.h",
+		"/home/rafa/Documents/42cursus/push_swap/main.c",
+		"/home/rafa/.cache/nrg/Rogue-Like-0.995c-linux/renpy/common/00console.rpy",
+		"/home/rafa/.cache/nrg/Rogue-Like-0.995c-linux/lzdevenable.rpy",
+		"/home/rafa/.cache/nrg/Rogue-Like-0.995c-linux/renpy/config.py",
+		"/home/rafa/.cache/nrg/Rogue-Like-0.995c-linux/Rogue-Like.sh",
+		"/home/rafa/Documents/42cursus/netwhat/answer.txt",
+		"/home/rafa/Documents/42cursus/resources/template_README.md",
+		"/home/rafa/Documents/42cursus/born2beroot/banner.txt",
+		"/home/rafa/Documents/test/x.c",
+		"/home/rafa/Documents/42cursus/vog_minitalk/server_bonus.c",
+		"/home/rafa/Documents/42cursus/vog_minitalk/client.c",
+		"/home/rafa/Documents/42cursus/vog_minitalk/server.c",
+		"/home/rafa/Documents/42cursus/vog_minitalk/client_bonus.c",
+		"/home/rafa/Documents/42cursus/minitalk/Makefile",
+		"/home/rafa/Documents/42cursus/minitalk/server.c",
+		"/home/rafa/Documents/42cursus/minitalk/client.c",
+		"/home/rafa/Documents/42cursus/minitalk/server_bonus.c",
+		"/home/rafa/Documents/42cursus/minitalk/client_bonus.c",
+		"/home/rafa/Documents/life.txt",
 		"/home/rafa/Documents/42cursus/minitalk/unicode.txt",
 		"/home/rafa/.xinitrc",
 		"/home/rafa/Documents/test/unicode.c",
@@ -794,7 +833,6 @@
 		"/home/rafa/.cache/xfce4/weather/weatherdata_-23.695000_-46.561600_778",
 		"/home/rafa/.cache/xfce4/clipman/textsrc",
 		"/home/rafa/Documents/42cursus/minitalk/.gitignore",
-		"/home/rafa/.scripts/.bash_aliases",
 		"/home/rafa/Documents/42cursus/get_next_line/tests/file4",
 		"/home/rafa/Documents/42cursus/minitalk/test1.txt",
 		"/home/rafa/Documents/42cursus/get_next_line/tests/file2",
@@ -823,97 +861,9 @@
 		"/home/rafa/Documents/42cursus/labs/tests/get_test.sh",
 		"/home/rafa/Documents/42cursus/labs/main.c",
 		"/home/rafa/Documents/42cursus/labs/intra_auth.c",
-		"/home/rafa/Documents/42cursus/minitalk/client.c",
-		"/home/rafa/Documents/42cursus/minitalk/server.c",
-		"/home/rafa/Documents/42cursus/minitalk/Makefile",
-		"/home/rafa/Documents/42cursus/born2beroot/banner.txt",
 		"/home/rafa/Documents/42cursus/miniRT/Makefile",
 		"/home/rafa/Documents/42cursus/minitalk/client_main.c",
-		"/home/rafa/Documents/42cursus/minitalk/server_main.c",
-		"/home/rafa/Documents/42cursus/minitalk/minitalk.h",
-		"/home/rafa/Documents/42cursus/minitalk/ft_printf/Makefile",
-		"/home/rafa/Documents/42cursus/ft_printf/Makefile",
-		"/home/rafa/Documents/42cursus/ft_printf/ft_printf.h",
-		"/home/rafa/Documents/42cursus/ft_printf/ft_printf.c",
-		"/home/rafa/Documents/42cursus/ft_printf/ft_printf_conversion.c",
-		"/home/rafa/Documents/42cursus/ft_printf/ft_printf_char_str.c",
-		"/home/rafa/Documents/42cursus/ft_printf/ft_printf_int_base.c",
-		"/home/rafa/Documents/42cursus/ft_printf/ft_printf_print_utils.c",
-		"/home/rafa/Documents/42cursus/ft_printf/main_debug.c",
-		"/home/rafa/Documents/42cursus/ft_printf/comp_printf.sh",
-		"/home/rafa/.cache/nrg/AW_v0-49-0_[cheats]/resources/AWprimary1.awr",
-		"/home/rafa/Documents/42cursus/labs_actual/Makefile",
-		"/home/rafa/Documents/42cursus/labs_actual/labsapi.h",
-		"/home/rafa/Documents/42cursus/labs_actual/labsapi_callbacks.h",
-		"/home/rafa/Documents/42cursus/labs_actual/main.c",
-		"/home/rafa/Documents/42cursus/labs_actual/json_utils.c",
-		"/home/rafa/Documents/42cursus/labs_actual/api_add_users.c",
-		"/home/rafa/Documents/42cursus/labs_actual/api_callback_utils.c",
-		"/home/rafa/Documents/42cursus/labs_actual/api_get_data.c",
-		"/home/rafa/Documents/42cursus/labs_actual/api_update_users.c",
-		"/home/rafa/Documents/42cursus/labs_actual/api_users_query.c",
-		"/home/rafa/Documents/42cursus/labs_actual/intra_auth.c",
-		"/home/rafa/Documents/42cursus/labs_actual/intra_request.c",
-		"/home/rafa/Documents/42cursus/labs_actual/tests/get_test.sh",
-		"/home/rafa/Documents/42cursus/labs_actual/tests/id_list.txt",
-		"/home/rafa/Documents/42cursus/labs_actual/tests/post_test.sh",
-		"/home/rafa/Documents/42cursus/labs_actual/tests/update_test.sh",
-		"/home/rafa/Documents/42cursus/labs_actual/README.md",
-		"/home/rafa/Documents/42cursus/labs_actual/api_other_queries.c",
-		"/home/rafa/Documents/42cursus/labs_actual/tests/projects.txt",
-		"/home/rafa/Documents/42cursus/labs_actual/tests/result.txt",
-		"/home/rafa/Documents/42cursus/get_next_line/run_test.sh",
-		"/home/rafa/Documents/projects/42labs/json_utils.c",
-		"/home/rafa/Documents/projects/42labs/intra_auth.c",
-		"/home/rafa/Documents/projects/42labs/Makefile",
-		"/home/rafa/Documents/projects/42labs/labsapi.h",
-		"/home/rafa/Documents/projects/42labs/labsapi_callbacks.h",
-		"/home/rafa/Documents/projects/42labs/main.c",
-		"/home/rafa/Documents/projects/42labs/api_callback_utils.c",
-		"/home/rafa/Documents/projects/42labs/api_add_users.c",
-		"/home/rafa/Documents/projects/42labs/api_update_users.c",
-		"/home/rafa/Documents/projects/42labs/api_users_query.c",
-		"/home/rafa/Documents/projects/42labs/api_other_queries.c",
-		"/home/rafa/Documents/projects/42labs/intra_request.c",
-		"/home/rafa/Documents/projects/42labs/README.md",
-		"/home/rafa/Documents/projects/42labs/new_database.sql",
-		"/home/rafa/Documents/projects/42labs/api_callbacks.c",
-		"/home/rafa/Documents/projects/42labs/rkochhan.txt",
-		"/home/rafa/Documents/projects/42labs/test.txt",
-		"/home/rafa/Documents/projects/42labs/.gitignore",
-		"/home/rafa/Documents/projects/42labs/labsapi.c",
-		"/home/rafa/Documents/projects/42labs/labapi.h",
-		"/home/rafa/Documents/projects/42labs/db_actions.c",
-		"/home/rafa/Documents/projects/42labs/api_user_query.c",
-		"/home/rafa/Documents/projects/42labs/api_add_user.c",
-		"/home/rafa/Documents/projects/42labs/userlist.txt",
-		"/home/rafa/Documents/projects/42labs/sql_reference.txt",
-		"/home/rafa/Documents/projects/42labs/ft_split.c",
-		"/home/rafa/Documents/projects/42labs/ft_utils.h",
-		"/home/rafa/Documents/projects/42labs/ft_substr.c",
-		"/home/rafa/Documents/projects/42labs/ft_strdel.c",
-		"/home/rafa/Documents/projects/42labs/ft_split_free.c",
-		"/home/rafa/Documents/projects/42labs/utils.h",
-		"/home/rafa/Documents/42cursus/libft/ft_substr.c",
-		"/home/rafa/Documents/projects/42labs/intra_requests.c",
-		"/home/rafa/Documents/projects/42labs/database_actions.c",
-		"/usr/include/postgresql/server/catalog/pg_type.h",
-		"/home/rafa/Documents/projects/42labs/database/new_database.sh",
-		"/home/rafa/.cache/nrg/1",
-		"/home/rafa/Documents/projects/42labs/test",
-		"/home/rafa/.cache/nrg/newlife/additional_scenes/official_content/hotelProstitution.vm",
-		"/home/rafa/Documents/projects/42labs/intra_oauth.c",
-		"/home/rafa/Documents/projects/42labs/cJSON/CHANGELOG.md",
-		"/home/rafa/Documents/projects/42labs/cJSON/CONTRIBUTORS.md",
-		"/home/rafa/Documents/projects/42labs/out.txt",
-		"/home/rafa/Documents/projects/42labs/cJSON/SOURCE",
-		"/home/rafa/Documents/projects/42labs/cJSON/README.md",
-		"/home/rafa/Documents/projects/42labs/cJSON/cJSON_Utils.c",
-		"/home/rafa/Documents/projects/42labs/cJSON/cJSON_Utils.h",
-		"/home/rafa/Documents/projects/42labs/intra_token.c",
-		"/home/rafa/Documents/projects/42labs/oauth2.c",
-		"/home/rafa/Documents/projects/42labs/oauth2/oauth2.c",
-		"/home/rafa/Documents/projects/42labs/oauth2/curl_request.c"
+		"/home/rafa/Documents/42cursus/minitalk/server_main.c"
 	],
 	"find":
 	{
@@ -931,6 +881,19 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"formula",
+			"path",
+			"content",
+			"frame->a_stack",
+			"->top",
+			"t_frame",
+			"top",
+			"first",
+			"new",
+			"__builtin_va_start",
+			"va_start",
+			"scree",
+			"save",
 			"i",
 			"pid",
 			"chr",
@@ -1022,6 +985,15 @@
 		"regex": false,
 		"replace_history":
 		[
+			"log",
+			"name",
+			"value",
+			"A_STACK",
+			".top",
+			"t_data",
+			"new",
+			"top",
+			"first",
 			"len",
 			"server_pid",
 			"c",
@@ -1094,188 +1066,14 @@
 		"reverse": false,
 		"show_context": true,
 		"use_buffer2": true,
-		"whole_word": true,
+		"whole_word": false,
 		"wrap": true
 	},
 	"groups":
 	[
 		{
-			"selected": 2,
 			"sheets":
 			[
-				{
-					"buffer": 0,
-					"file": "/home/rafa/Documents/42cursus/minitalk/Makefile",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 2018,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								1916,
-								1916
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Makefile/Makefile.sublime-syntax",
-							"translate_tabs_to_spaces": false
-						},
-						"translation.x": 0.0,
-						"translation.y": 306.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 2,
-					"type": "text"
-				},
-				{
-					"buffer": 1,
-					"file": "/home/rafa/Documents/42cursus/minitalk/server.c",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 1554,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								1191,
-								1191
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/C++/C.sublime-syntax",
-							"translate_tabs_to_spaces": false
-						},
-						"translation.x": 0.0,
-						"translation.y": 102.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 3,
-					"type": "text"
-				},
-				{
-					"buffer": 2,
-					"file": "/home/rafa/Documents/42cursus/minitalk/client.c",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 1751,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								1509,
-								1509
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/C++/C.sublime-syntax",
-							"translate_tabs_to_spaces": false
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 0,
-					"type": "text"
-				},
-				{
-					"buffer": 3,
-					"file": "/home/rafa/Documents/42cursus/minitalk/server_bonus.c",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 1773,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								1773,
-								1773
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/C++/C.sublime-syntax",
-							"translate_tabs_to_spaces": false
-						},
-						"translation.x": 0.0,
-						"translation.y": 162.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 4,
-					"type": "text"
-				},
-				{
-					"buffer": 4,
-					"file": "/home/rafa/Documents/42cursus/minitalk/client_bonus.c",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 2139,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								1453,
-								1453
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/C++/C.sublime-syntax",
-							"translate_tabs_to_spaces": false
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 1,
-					"type": "text"
-				},
-				{
-					"buffer": 5,
-					"file": "/home/rafa/Documents/42cursus/minitalk/unicode.txt",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 667,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								0,
-								0
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Text/Plain text.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 5,
-					"type": "text"
-				}
 			]
 		}
 	],
@@ -1342,7 +1140,7 @@
 		[
 			[
 				"",
-				"~/.scripts/subl/daily.sublime-workspace"
+				"~/Documents/42cursus/push_swap/push_swap.sublime-project"
 			]
 		],
 		"width": 380.0
