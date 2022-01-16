@@ -1,6 +1,7 @@
 (if
     (contains (application_name) "Audacious")
     (begin
+		(focus)
         (set_workspace 4)
     )
 )
