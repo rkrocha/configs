@@ -1,4 +1,5 @@
 
+export CURSUS42=/home/rafa/Documents/42cursus
 export FT=/home/rafa/Documents/42cursus/libft/
 export SCR=/home/rafa/.scripts
 
@@ -71,6 +72,10 @@ alias norm="norminette"
 alias normc="norminette *.[ch]"
 alias upnorm="python3 -m pip install --upgrade norminette"
 alias py="python3"
+
+# DOCKER
+alias do="docker"
+alias doco="docker-compose"
 
 # GIT:
 alias ga="git add"
